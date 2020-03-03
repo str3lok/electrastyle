@@ -4784,6 +4784,12 @@ if(($('.main__slider').length) > 0) {
      ]     
   });
  }
+
+ if(windowWidth >=1024) {
+  if($('.brandHistoryJS').hasClass('slick-initialized')) {
+   $('.brandHistoryJS').slick('unslick');
+  }
+ } 
 // end 11232
 
 
