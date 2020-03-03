@@ -9175,6 +9175,7 @@ textarea.form-control {
 .catalog__difference .pr-title-box {
   margin: 0; }
 
+/* start all styles 11232 */
 .page__wrapper {
   display: block;
   width: 100%;
@@ -9518,6 +9519,7 @@ textarea.form-control {
   max-width: 100%;
   height: auto; }
 
+/* end all styles 11232 */
 /*
 
 .btn {
@@ -10163,6 +10165,7 @@ textarea.form-control {
       left: 39%; }
   .add-basket {
     margin: 0 25px 0 0; }
+  /* start 1799px styles 11232 */
   .brand-about-row {
     margin: 0 -19px; }
   .brand-about-col {
@@ -10189,7 +10192,8 @@ textarea.form-control {
   .brand-awards-slider .slider__arrow .slick-next {
     right: -60px; }
   .brand__awards {
-    margin-bottom: 40px; } }
+    margin-bottom: 40px; }
+  /* end 1799px styles 11232 */ }
 
 /*END 1799px 1799px*/
 /*1365px*/
@@ -11216,6 +11220,7 @@ textarea.form-control {
     display: block !important; }
   .lb-list .pr-price {
     margin: 54px 0 0 0; }
+  /* start 1365px styles 11232 */
   .brand-about-text .h1, .brand-about-text h1 {
     font-size: 24px;
     line-height: 26px; }
@@ -11309,7 +11314,8 @@ textarea.form-control {
     .brand-awards-slider .slick-arrow {
       display: none !important; }
   .brand__awards {
-    overflow: hidden; } }
+    overflow: hidden; }
+  /* end 1365px styles 11232 */ }
 
 /*END 1365px 1365px*/
 /*1200px*/
@@ -13447,6 +13453,7 @@ textarea.form-control {
 /*END 1024px 1024px*/
 /*1023px*/
 @media (max-width: 1023px) {
+  /* start 1023px styles 11232 */
   .brand-about-row {
     margin: 0;
     -webkit-flex-wrap: wrap;
@@ -13491,7 +13498,8 @@ textarea.form-control {
     width: 34px;
     height: 16px;
     top: 9px;
-    left: -1px; } }
+    left: -1px; }
+  /* end 1023px styles 11232 */ }
 
 /*END 1023px 1023px*/
 /*919px*/
@@ -15905,6 +15913,7 @@ textarea.form-control {
     display: none !important; }
   .product__container.catalog-product {
     padding: 0; }
+  /* start 767px styles 11232 */
   .page__wrapper {
     border-top: 1px solid #E6DAD5;
     padding-top: 12px; }
@@ -15997,7 +16006,8 @@ textarea.form-control {
     width: -moz-calc(100% + 18px);
     width: calc(100% + 18px); }
   .brand-awards-slide img {
-    max-width: 278px; } }
+    max-width: 278px; }
+  /* end 767px styles 11232 */ }
 
 /*END 767px 767px*/
 /*639px*/
@@ -16350,8 +16360,10 @@ textarea.form-control {
   .catalog__container .mob-title,
   .product__left .mob-title {
     padding: 0 40px; }
+  /* end 479px styles 11232 */
   .brand-awards-slide img {
-    max-width: 155px; } }
+    max-width: 155px; }
+  /* end 479px styles 11232 */ }
 
 /*END 479px 479px*/
 /*359px*/
