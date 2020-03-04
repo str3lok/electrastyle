@@ -9370,8 +9370,7 @@ textarea.form-control {
 .brand__form {
   display: block;
   width: 100%;
-  float: left;
-  padding: 23px 0; }
+  float: left; }
   .brand__form .title {
     margin-bottom: 11px; }
 
