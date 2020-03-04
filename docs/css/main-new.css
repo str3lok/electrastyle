@@ -3184,12 +3184,12 @@ input[type="radio"].visually-hidden {
           float: none;
           padding-left: 0; } }
       .lookbook__card--left .lookbook__title-box {
-        left: -30px;
-        -webkit-transform: translate(0, -50%) rotate(-90deg);
-           -moz-transform: translate(0, -50%) rotate(-90deg);
-            -ms-transform: translate(0, -50%) rotate(-90deg);
-             -o-transform: translate(0, -50%) rotate(-90deg);
-                transform: translate(0, -50%) rotate(-90deg); }
+        left: 19px;
+        -webkit-transform: translate(-50%, 0) rotate(-90deg);
+           -moz-transform: translate(-50%, 0) rotate(-90deg);
+            -ms-transform: translate(-50%, 0) rotate(-90deg);
+             -o-transform: translate(-50%, 0) rotate(-90deg);
+                transform: translate(-50%, 0) rotate(-90deg); }
         @media (min-width: 600px) {
           .lookbook__card--left .lookbook__title-box {
             position: static;
