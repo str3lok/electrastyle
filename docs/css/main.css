@@ -9361,7 +9361,7 @@ textarea.form-control {
   display: block;
   width: 100%;
   float: left;
-  padding: 90px 0; }
+  padding: 90px 0 68px; }
   .brand__text .title {
     margin-bottom: 37px; }
 
@@ -9643,7 +9643,7 @@ textarea.form-control {
   display: block;
   width: 100%;
   float: left;
-  margin-top: 79px; }
+  margin-top: 57px; }
 
 .vacancies-list {
   display: block;
@@ -11509,7 +11509,7 @@ textarea.form-control {
   .brand-history-absolute {
     top: 210px; }
   .brand__text {
-    padding: 85px 0 55px; }
+    padding: 85px 0 33px; }
   .sub-title {
     font-size: 14px;
     line-height: 16px; }
@@ -11567,7 +11567,7 @@ textarea.form-control {
   .vacancies-us-text .title {
     margin-bottom: 22px; }
   .vacancies__content {
-    margin-top: 49px; }
+    margin-top: 27px; }
   .vacancies__content .title {
     margin-bottom: 21px; }
   .vacancies-list {
@@ -16248,7 +16248,7 @@ textarea.form-control {
   .brand-history-absolute {
     top: 150px; }
   .brand__text {
-    padding: 65px 15px 50px; }
+    padding: 65px 15px 28px; }
     .brand__text .title {
       padding: 0 30px;
       margin-bottom: 24px; }
@@ -16344,7 +16344,7 @@ textarea.form-control {
     max-width: 100%;
     width: 100%; }
   .vacancies__content {
-    margin-top: 40px; }
+    margin-top: 18px; }
   .vacancy-no-content {
     padding-left: 55px; }
   .vacancy-no-title {
