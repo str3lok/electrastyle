@@ -9344,8 +9344,6 @@ textarea.form-control {
     font: 14px/21px "ITCNewVeljovicPro-Regular", sans-serif;
     padding: 0 0 0 32px;
     margin-bottom: 22px; }
-    .brand-text-list li:last-child {
-      margin-bottom: 0; }
     .brand-text-list li::before {
       content: "";
       position: absolute;
