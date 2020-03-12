@@ -4774,7 +4774,7 @@ if(($('.main__slider').length) > 0) {
    slidesToScroll: 1,
    arrows: true,
    dots: false,
-   touchThreshold: 15,
+   touchThreshold: 25,
    responsive: [
      {
        breakpoint: 768,
