@@ -3833,6 +3833,78 @@ input[type="radio"].visually-hidden {
     .lookbook-inner .container {
       width: 1600px; } }
 
+/*new styles 11404*/
+.lookbook-inner__block.lookbook-three-columns .lookbook-inner__slider {
+  width: 575px; }
+  .lookbook-inner__block.lookbook-three-columns .lookbook-inner__slider.lookbook-inner__slider--center {
+    width: 450px; }
+
+.lookbook-inner__block.lookbook-three-columns .lookbook-inner__slider--right {
+  margin-left: 0 !important; }
+
+.lookbook-inner__slider--center {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  padding: 0 60px; }
+  .lookbook-inner__slider--center .lookbook-inner__img-box--small:first-child {
+    -webkit-align-self: flex-end;
+        -ms-flex-item-align: end;
+            align-self: flex-end; }
+  .lookbook-inner__slider--center .lookbook-inner__img-box--small:last-child {
+    margin-bottom: -44px; }
+  .lookbook-inner__slider--center.lookbook-inner-reverse .lookbook-inner__img-box--small:first-child {
+    -webkit-align-self: flex-start;
+        -ms-flex-item-align: start;
+            align-self: flex-start; }
+  .lookbook-inner__slider--center.lookbook-inner-reverse .lookbook-inner__img-box--small:last-child {
+    -webkit-align-self: flex-end;
+        -ms-flex-item-align: end;
+            align-self: flex-end; }
+
+/*start 1799px*/
+@media (max-width: 1799px) {
+  .lookbook-inner__block.lookbook-three-columns .lookbook-inner__slider {
+    width: 430px; }
+    .lookbook-inner__block.lookbook-three-columns .lookbook-inner__slider.lookbook-inner__slider--center {
+      width: 310px; }
+  .lookbook-inner__slider--center {
+    padding: 0 35px; }
+    .lookbook-inner__slider--center .lookbook-inner__img-box--small:last-child {
+      margin-bottom: -35px; } }
+
+/*end 1799px*/
+/*start 1365px*/
+@media (max-width: 1365px) {
+  .lookbook-inner__block.lookbook-three-columns .lookbook-inner__slider {
+    width: 330px; }
+  .lookbook-inner__slider--center {
+    padding: 0 51px; } }
+
+/*end 1365px*/
+/*start 1024px*/
+@media (max-width: 1024px) {
+  .lookbook-inner__block.lookbook-three-columns .lookbook-inner__slider.lookbook-inner__slider--center {
+    width: 238px; }
+  .lookbook-inner__slider--center {
+    padding: 0 26px; } }
+
+/*end 1024px*/
+/*start 919px*/
+@media (max-width: 919px) {
+  .lookbook-inner__block.lookbook-three-columns .lookbook-inner__slider {
+    width: 100%; }
+  .lookbook-inner__slider--center {
+    display: none !important; }
+  .lookbook-inner__text--mob {
+    display: block; } }
+
+/*end 919px*/
+/*end new style 11404*/
 /* страница Менеджера */
 .manager {
   padding: 0 18px;
